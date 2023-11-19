@@ -1,0 +1,9 @@
+[
+  {
+  "id" : 1,
+  "bundleId2 : "",
+  "title" : "App Alert",
+  "text" : "More text",
+  "confirmLabel" : "OK"
+  }
+]
